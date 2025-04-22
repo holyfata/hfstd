@@ -1,0 +1,12 @@
+{
+  "name": "hfstd",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "1.1.17"
+  },
+  "peerDependencies": {
+    "typescript": "5.8.3"
+  }
+}
